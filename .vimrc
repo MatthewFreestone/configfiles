@@ -1,6 +1,6 @@
 set showmatch
 set autoindent
-set number
+set numbe
 set wildmode=longest,list
 
 set cc=88

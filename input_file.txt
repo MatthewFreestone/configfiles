@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/MatthewFreestone/configfiles/main/.gitconfig
+https://raw.githubusercontent.com/MatthewFreestone/configfiles/main/.bash_aliases
+https://raw.githubusercontent.com/MatthewFreestone/configfiles/main/.vimrc
+https://raw.githubusercontent.com/MatthewFreestone/configfiles/main/.ssh/config
+

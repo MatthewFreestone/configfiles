@@ -1,9 +1,8 @@
 set showmatch
 set autoindent
-set numbe
+set number
 set wildmode=longest,list
 
-set cc=88
 filetype plugin indent on
 set tabstop=4
 set expandtab

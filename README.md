@@ -1,6 +1,7 @@
 ## Get All Files
 ```bash
-wget -i input_file.txt
+wget -i https://raw.githubusercontent.com/MatthewFreestone/configfiles/main/input_file.txt
+rm input_file.txt
 ```
 ### Get one file
 ```bash

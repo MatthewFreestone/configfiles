@@ -4,4 +4,6 @@
 	rv = remote -v
 	cm = commit -m
 [user]
-	name = Matthew Freestone
+    name = Matthew Freestone
+[core]
+    editor = vim

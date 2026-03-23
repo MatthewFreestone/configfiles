@@ -1,9 +1,9 @@
 [alias]
-	aa = add -A
-	s = status
-	rv = remote -v
-    cm = commit -m
-    lg = log --pretty='format:%C(auto)%h%d %s %Cgreen(%an, %ar)%C(auto)'
+	aa = "add -A"
+	s = "status"
+	rv = "remote -v"
+	cm = "commit -m"
+    lg = "log --pretty='format:%C(auto)%h%d %s %Cgreen(%an, %ar)%C(auto)'"
 [user]
     name = Matthew Freestone
 [core]
